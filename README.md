@@ -186,4 +186,4 @@ Data Analytics | Power BI | Excel | SQL | Python
 
 ## Executive Dashboard
 
-![School Academic Performance Executive Dashboard](screenshots/executive-dashboard.png)
+![School Academic Performance Executive Dashboard](executive-dashboard.png.png)
